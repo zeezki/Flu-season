@@ -6,3 +6,5 @@ This analysis uses Excel to examine trends in influenza and how they can be used
 The data used for this analysis is influenza death data from the CDC, and population data from the U.S. Census Bureau.
 
 [Link to Tableau Presentation](https://public.tableau.com/views/Excercise2_9-Revisednew/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Link to Video Recording](https://www.loom.com/share/a0dbabc78ff74600bd8ccd7e3e8d89d4)
